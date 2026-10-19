@@ -1,2 +1,4 @@
-# open-dot
-An open-source amazon echo dot.
+# OPEN-DOT
+### A alternative to amazon echo dot
+
+
